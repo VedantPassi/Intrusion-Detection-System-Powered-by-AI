@@ -24,11 +24,3 @@ Use Cases
 • Threat detection and incident response
 • SOC (Security Operations Center) environments
 • Network traffic analysis
-
-Repository
-
-🔗 https://github.com/OISF/suricata
-
-⸻
-
-If you want, I can also make a more professional GitHub README with badges, installation steps, screenshots, and architecture diagram (which looks much better for cybersecurity portfolios).
